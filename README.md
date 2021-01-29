@@ -1,2 +1,2 @@
 # playWithCmake
-tutorial o master cmake 
+tutorial to master cmake 
